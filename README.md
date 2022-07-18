@@ -7,12 +7,12 @@ Tools Required:
 
 Skills: Need to know how to export the model developed using Matlab simulink to HDL (Verilog or VHDL) using HDL Coder.
 
-All individual simulink blocks for each preprocessing blocks has been added in separate folder. After installing Matlab and Xilinx in same PC/Laptop (after configuring Matlab to Xilinx) open the individual block after downloading it and run the simulink blocks
+All individual simulink blocks for each preprocessing blocks has been added in separate folder. After installing Matlab and Xilinx in same PC/Laptop (after configuring Matlab to Xilinx) open the individual block after downloading it and run the simulink blocks.
 
 if you face any difficulty in downloading and running the blocks please feel free to mail me at udayashankar01@gmail.com
 
 
-Note: If you have used this model in your manuscript dont forget to cite this book chapter (BibTex)
+Note: If you have rferred or used this model in your manuscript dont forget to cite this book chapter (BibTex)
 @incollection{10.1088/978-0-7503-3923-0ch13,
 author = {Udaya Shankar, S and Rajalakshmi, K},
 title = {High level synthesis of fingerprint authentication system},
