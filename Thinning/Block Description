@@ -1,1 +1,5 @@
 
+        Thinning is a morphological operation that is used to remove selected foreground pixels from binary images. It involves the neighbourhood pixel processing. It reduces
+all the lines to single pixel thickness.
+        Hit-and-miss algorithm can be used to thin and skeletonize a shape in a binary image. This is an iterative process containing repeated steps to thin the shape by hit and-miss method. In each iteration, some different structuring elements are used to identify the edge pixels to be removed, followed by the actual removal of them.
+        The hit-and-miss transform performs the thinning operation. The behavior of thinning is determined by a structural element (or 3×3 kernel). The structuring element from [52] is used as a template that slides over the binary image. If the foreground and background pixels in the structuring element exactly match foreground and background pixels in the image, then the image pixel underneath the origin of the structuring element is set to background or zero (i.e., the centre of the 3×3 kernel in image compared to the structured element is set to zero).
