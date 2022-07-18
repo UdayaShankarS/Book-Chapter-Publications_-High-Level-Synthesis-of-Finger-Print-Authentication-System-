@@ -1,1 +1,2 @@
-
+        The problem of any image binarization method is to determine the value of optimal threshold so that all pixels values in the fingerprint image equal to or above to the
+measured threshold value are set to foreground pixel (1) and pixel values in the fingerprint image below the threshold value are set to background pixel (0).
