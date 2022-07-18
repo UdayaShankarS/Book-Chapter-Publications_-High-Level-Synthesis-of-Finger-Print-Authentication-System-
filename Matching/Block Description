@@ -1,1 +1,5 @@
-
+        The final stage in the fingerprint identification is to match the fingerprint features obtained in field with the features stored in the template. Normally the single
+fingerprint feature is compared or matched with the N number of fingerprint features in the template for identification. But in the template the features are stored in encrypted format, they are decrypted and then the decrypted features are matched with features read from the sensor. There are two features like minutiae and nonminutiae,
+the minutiae features are only considered. Hence the matching algorithm should be able to match the minutiae features.
+        In this work, matching algorithm performs the matching of the minutiae features from the template and the features from the sensor in a pixel-by-pixel manner. Hence
+this implementation has a delay to identify or match the single fingerprint. The output shows either 1 if both the features are the same person or 0 if both the features are not same person.
