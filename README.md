@@ -2,8 +2,8 @@
 High-Level-Synthesis-of-Finger-Print-Authentication-System
 
 Tools Required:
-1. Matlab 2017b (with HDL coder)
-2. Xilinx 2017 Version
+1. Matlab 2017b (with HDL coder) or higher
+2. Xilinx 2017 Version or higher
 
 Skills: Need to know how to export the model developed using Matlab simulink to HDL (Verilog or VHDL) using HDL Coder.
 
