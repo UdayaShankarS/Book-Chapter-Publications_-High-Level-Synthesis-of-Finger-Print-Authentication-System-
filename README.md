@@ -1,4 +1,4 @@
-# Book-Chapter-Publications_-High-Level-Synthesis-of-Finger-Print-Authentication-System-
+# Book-Chapter-Publication-High-Level-Synthesis-of-Finger-Print-Authentication-System-
 High-Level-Synthesis-of-Finger-Print-Authentication-System
 
 Tools Required:
