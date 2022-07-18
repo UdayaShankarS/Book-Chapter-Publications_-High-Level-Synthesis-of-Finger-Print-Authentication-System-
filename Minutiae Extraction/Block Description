@@ -1,1 +1,3 @@
-
+      The minutiae features like ridge ending (terminations) and ridge bifurcations are extracted from the fingerprint thinned image. The minutiae extraction process is a
+morphological approach of neighbourhood pixel processing.
+      The methods to extract useful minutiae features from the thinned images are crossing-number and morphology based. Morphological based minutiae extraction uses matching of the template or kernel of various sizes to the pixels in the thinned image in order to extract the minutiae features. Morphology based method with simple matching to extract minutiae requires lower complexity. The neural network algorithm is trained offline in order to find the bifurcation and termination points from [52].
